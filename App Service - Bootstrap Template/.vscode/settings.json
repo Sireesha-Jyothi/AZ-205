@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a2cfb5a8-416b-416e-80ec-db4d7132f25a/resourceGroups/appservice1/providers/Microsoft.Web/sites/chinnusiriwebapp",
+    "appService.deploySubpath": "."
+}
